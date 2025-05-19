@@ -18,3 +18,4 @@ This code provides the source files and generation codes of all the figure in th
 
 * Fig. 1. Photographs of some existing SIMs. (a) A three-layer SIM; (b) A five-layer SIM.
 * Fig. 2. The considered SIM-aided array system.
+* Fig. 3. Top and front views of the considered SIM-based systems.
