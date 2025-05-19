@@ -16,6 +16,5 @@ This code provides the source files and generation codes of all the figure in th
   pages={2786-2802},
   doi={10.1109/JSAC.2024.3414613}}
 
-# Fig. 1. Photographs of some existing SIMs. (a) A three-layer SIM; (b) A five-layer SIM.
-
-# Fig. 2. The considered SIM-aided array system.
+* Fig. 1. Photographs of some existing SIMs. (a) A three-layer SIM; (b) A five-layer SIM.
+* Fig. 2. The considered SIM-aided array system.
