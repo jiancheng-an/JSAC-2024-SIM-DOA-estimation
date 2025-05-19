@@ -19,4 +19,4 @@ This code provides the source files and generation codes of all the figure in th
 * Fig. 1. Photographs of some existing SIMs. (a) A three-layer SIM; (b) A five-layer SIM.
 * Fig. 2. The considered SIM-aided array system.
 * Fig. 3. Top and front views of the considered SIM-based systems.
-* The proposed SIM-based DOA estimation protocol, where different colors refer to non-overlapping spatial frequency bins associated with different snapshots. This is achieved by adjusting the phase shifts of the input metasurface layer. The vertical and horizontal lines correspond to $\psi_x$ and $\psi_y$, respectively.
+* Fig. 4. The proposed SIM-based DOA estimation protocol, where different colors refer to non-overlapping spatial frequency bins associated with different snapshots. This is achieved by adjusting the phase shifts of the input metasurface layer. The vertical and horizontal lines correspond to $\psi_x$ and $\psi_y$, respectively.
