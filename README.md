@@ -1,8 +1,6 @@
 # JSAC-2024-SIM-DOA-estimation
 
 This code provides the source files and generation codes of all the figure in this paper:
-
-# Paper
 * J. An et al., "Two-Dimensional Direction-of-Arrival Estimation Using Stacked Intelligent Metasurfaces," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.
 
 # bib
