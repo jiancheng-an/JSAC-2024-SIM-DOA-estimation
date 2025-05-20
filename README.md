@@ -20,3 +20,5 @@ This code provides the source files and generation codes of all the figure in th
 * Fig. 2. The considered SIM-aided array system.
 * Fig. 3. Top and front views of the considered SIM-based systems.
 * Fig. 4. The proposed SIM-based DOA estimation protocol, where different colors refer to non-overlapping spatial frequency bins associated with different snapshots. This is achieved by adjusting the phase shifts of the input metasurface layer. The vertical and horizontal lines correspond to $\psi_x$ and $\psi_y$, respectively.
+* Tab. I. Normalized loss function (in dB) based on a (2, 2) grid points
+* Tab. II. Normalized loss function (in dB) based on a (4, 4) grid points
