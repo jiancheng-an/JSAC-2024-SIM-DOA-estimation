@@ -22,3 +22,6 @@ This code provides the source files and generation codes of all the figure in th
 * Fig. 4. The proposed SIM-based DOA estimation protocol, where different colors refer to non-overlapping spatial frequency bins associated with different snapshots. This is achieved by adjusting the phase shifts of the input metasurface layer. The vertical and horizontal lines correspond to $\psi_x$ and $\psi_y$, respectively.
 * Tab. I. Normalized loss function (in dB) based on a (2, 2) grid points
 * Tab. II. Normalized loss function (in dB) based on a (4, 4) grid points
+* Fig. 5 Convergence behavior of the proposed gradient descent algorithm based on a (2, 2) grid points
+  * Fig. 5(a) Normalized loss function $\mathcal{L}$ versus the number of iterations
+  * Fig. 5(b) Normalized loss function $\mathcal{L}$ versus the decay parameter $\zeta$
