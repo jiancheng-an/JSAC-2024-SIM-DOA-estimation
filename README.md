@@ -26,3 +26,6 @@ This code provides the source files and generation codes of all the figure in th
 * Fig. 5 Convergence behavior of the proposed gradient descent algorithm based on a (2, 2) grid points
   * Fig. 5(a) Normalized loss function $\mathcal{L}$ versus the number of iterations
   * Fig. 5(b) Normalized loss function $\mathcal{L}$ versus the decay parameter $\zeta$
+* Fig. 6 Convergence behavior of the proposed gradient descent algorithm based on a (4, 4) grid points
+  * Fig. 6(a) Normalized loss function $\mathcal{L}$ versus the number of iterations
+  * Fig. 6(b) Normalized loss function $\mathcal{L}$ versus the decay parameter $\zeta$
